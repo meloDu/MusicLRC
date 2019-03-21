@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Thu Mar 21 14:04:50 CST 2019
+1.base=F\:\\AndroidProject\\learn\\MusicWords\\MusicLRC\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=F\:\\AndroidProject\\learn\\MusicWords\\MusicLRC\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
+1.file=F\:\\AndroidProject\\learn\\MusicWords\\MusicLRC\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+4.set=DEX
+2.base=F\:\\AndroidProject\\learn\\MusicWords\\MusicLRC\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=F\:\\AndroidProject\\learn\\MusicWords\\MusicLRC\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=F\:\\AndroidProject\\learn\\MusicWords\\MusicLRC\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=F\:\\AndroidProject\\learn\\MusicWords\\MusicLRC\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=F\:\\AndroidProject\\learn\\MusicWords\\MusicLRC\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+0.file=F\:\\AndroidProject\\learn\\MusicWords\\MusicLRC\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_main.xml
+4.base=F\:\\AndroidProject\\learn\\MusicWords\\MusicLRC\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
